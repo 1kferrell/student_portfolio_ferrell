@@ -1,8 +1,7 @@
 ##Kyler Ferrell##
 ##Last Revised 12/10/2023##
 ##While_Loop_Portfolio_Assignment##
-##TThis program will promt the user to input data to find the sum. If data is null the program will end.#
-
+##TThis program will promt the user to input data to find the average of 3 grades. 
 #Ths while True statement prompts the user to enter a number#
 #The if statement makes a condition for that number to be between 0 and 100 and if neither than program will end
 #This get repeated for 3 different numbers
